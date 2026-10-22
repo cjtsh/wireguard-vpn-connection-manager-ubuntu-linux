@@ -18,3 +18,8 @@ GUI (Python) Screenshot
 ![guivpn](https://github.com/user-attachments/assets/05e6f2cd-b296-4c00-afb3-f7a9fc86d328)
 
 For the GUI version simply create a desktop launcher short cut to the PY file and you now have a one click VPN app.
+
+
+## Legal notice
+
+This tool can read WireGuard configurations, invoke privileged commands, and change network connectivity. Review the scripts, protect private keys, and maintain backups before use. It is provided under the [MIT License](LICENSE) with the project-specific [disclaimer](DISCLAIMER.md). The canonical Bitseeker LLC disclaimer is pinned at [software-disclaimer v1.2.2](https://github.com/cjtsh/software-disclaimer/releases/tag/v1.2.2).
